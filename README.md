@@ -1,7 +1,5 @@
 # Data Structures and Algorithms (DSA) Questions in C++
 
-![DSA](https://i.imgur.com/XhL1ghJ.png)
-
 This repository contains a collection of Data Structures and Algorithms (DSA) questions implemented in C++. These solutions are meant to serve as a reference for understanding various DSA concepts and their implementations.
 
 ## Table of Contents
